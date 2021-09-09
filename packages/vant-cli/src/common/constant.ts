@@ -16,7 +16,7 @@ function findRootDir(dir: string): string {
 }
 
 // Colors
-export const GREEN = '#07c160';
+export const GREEN = '#28BC77';
 
 // Root paths
 export const CWD = process.cwd();

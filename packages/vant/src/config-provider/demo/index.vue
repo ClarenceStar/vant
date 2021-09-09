@@ -30,13 +30,13 @@ const t = useTranslate({
 const rate = ref(4);
 const slider = ref(50);
 const themeVars = {
-  rateIconFullColor: '#07c160',
+  rateIconFullColor: '#28BC77',
   sliderBarHeight: '4px',
   sliderButtonWidth: '20px',
   sliderButtonHeight: '20px',
-  sliderActiveBackgroundColor: '#07c160',
-  buttonPrimaryBorderColor: '#07c160',
-  buttonPrimaryBackgroundColor: '#07c160',
+  sliderActiveBackgroundColor: '#28BC77',
+  buttonPrimaryBorderColor: '#28BC77',
+  buttonPrimaryBackgroundColor: '#28BC77',
 };
 </script>
 
